@@ -1,6 +1,6 @@
 {
-	"name": "@zilorent/edit",
-	"version": "1.0",
+	"name": "zilorent/edit",
+	"version": "1.0.0",
 	"description": "A react date range picker using Material Design",
 	"author": {
 		"email": "ishevchuk@zilorent.com",
