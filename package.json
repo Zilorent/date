@@ -1,14 +1,14 @@
 {
-	"name": "@matharumanpreet00/react-daterange-picker",
-	"version": "1.0.10",
+	"name": "@zilorent/edit",
+	"version": "1.0",
 	"description": "A react date range picker using Material Design",
 	"author": {
-		"email": "matharumanpreet00@gmail.com",
-		"name": "Manpreet Singh Matharu"
+		"email": "ishevchuk@zilorent.com",
+		"name": "Igor"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/matharumanpreet00/react-daterange-picker"
+		"url": "https://github.com/zilorent/date"
 	},
 	"main": "build/index.js",
 	"scripts": {
